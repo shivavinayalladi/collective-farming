@@ -1,0 +1,52 @@
+.bimg{
+    background-image: url("./images/backgroundhome.jpeg");
+    width: 100%;
+    height: 590px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 150px;
+ }
+ .bimg h1,p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .mpart{
+    display:flex;
+    text-align: center;
+ }
+ .img3{
+    display: flex;
+    padding:20px;
+    display: block;
+    margin:auto;
+    gap: 30px;
+ }
+ .second h1{
+    color: aliceblue;
+ }
+ .second p{
+    color:azure;
+ }
+ .head{
+    margin-top: 150px;
+ }
+ .main{
+    display: flex;
+    justify-content:space-around;
+    gap:20px;
+ }
+ .main img{
+    width:400px;
+    height: 300px;
+ }
+ .carousel-control-prev-icon,.carousel-control-next-icon{
+    background-color: black;
+ }
+ .infotext{
+    background-color: rgb(176, 176, 51);
+ }
+a{
+    text-decoration: none;
+    color: black;
+}
